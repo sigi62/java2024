@@ -1,0 +1,8 @@
+Pan Tadeusz;Adam Mickiewicz;1773
+Dziady cz.1;Adam Mickiewicz;1773
+W Pustyni i w Puszczy;Henryk Sienkiewicz;1883
+Makbet;William Szekspir;1662
+Hamlet;William Szekspir;1665
+Wesele;Stanisław Wyspiański;1859
+Zbrodnia i kara;Fiodor Dostojewski;1702
+Kordian;Juliusz Słowacki;1623
